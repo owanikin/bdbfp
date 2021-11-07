@@ -8,7 +8,6 @@
     "start": "next start",
     "lint": "next lint"
   },
-  
   "dependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.2",
     "@nomiclabs/hardhat-waffle": "^2.0.1",
