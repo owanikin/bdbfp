@@ -9,6 +9,9 @@
 
 
 
+### Ethereum account : 0xbD6DbC8aBaC952cC84Bb04E670539B66da57B068
+
+
 
 # Basic Sample Hardhat Project
 
